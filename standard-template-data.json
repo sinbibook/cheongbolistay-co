@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.6.0",
-    "generatedAt": "2026-08-25T08:15:20.173565743Z",
+    "version": "1.7.0",
+    "generatedAt": "2026-08-25T08:18:08.554918392Z",
     "templateType": "trip_e",
     "propertyId": "06231fe7-cfd1-4f8b-85eb-956c48db512a",
     "homepageId": "5cd8500d-e14f-418c-93ae-867f2817daea"
@@ -165,52 +165,11 @@
         ]
       },
       {
-        "id": "a789f32a-b71a-4f60-8fbb-b5b1a62dcb27",
-        "name": "개별테라스",
-        "description": "문을 열면 이어지는 개별 테라스에서\n바람과 풍경을 느끼며 한적한 휴식을 즐겨보세요.",
-        "usageGuide": "",
-        "displayOrder": 2,
-        "images": [
-          {
-            "id": "289a139a-024e-4f84-a983-fd2a0f079c8c",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/a789f32a-b71a-4f60-8fbb-b5b1a62dcb27/main/1787272574837-er9cxgqgsq.jpg",
-            "sortOrder": 0,
-            "description": "",
-            "isSelected": true,
-            "blockId": null
-          },
-          {
-            "id": "e691d22b-0647-4976-bd98-7ba51801686b",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/a789f32a-b71a-4f60-8fbb-b5b1a62dcb27/main/1787272574842-9aiyxyyalw.jpg",
-            "sortOrder": 1,
-            "description": "",
-            "isSelected": true,
-            "blockId": null
-          },
-          {
-            "id": "8b3573a5-6d54-4396-adda-f9a547da298d",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/a789f32a-b71a-4f60-8fbb-b5b1a62dcb27/main/1787272574843-sl6gohd93z.jpg",
-            "sortOrder": 2,
-            "description": "",
-            "isSelected": true,
-            "blockId": null
-          },
-          {
-            "id": "b0ff2f42-7fef-4154-af6d-7e24f2552f73",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/a789f32a-b71a-4f60-8fbb-b5b1a62dcb27/main/1787272574840-zctr62tef2.jpg",
-            "sortOrder": 3,
-            "description": "",
-            "isSelected": true,
-            "blockId": null
-          }
-        ]
-      },
-      {
         "id": "15f600b8-1d61-400c-8660-a9e99f699403",
         "name": "불멍",
         "description": "은은하게 퍼지는 불빛을 바라보며\n하루의 긴장을 천천히 내려놓는 시간을 가져보세요.\n조용한 분위기 속에서 깊은 휴식을 느낄 수 있습니다.",
         "usageGuide": "- 이용 객실: 청보리5,6 / 야외 숯불 아궁이 신청객실\n- 이용 장소: 숯불 아궁이\n- 제공 구성: 장작\n- 이용 요금: 바베큐 비용에 포함(1박기준/현장결제)\n※ 장작추가: 10,000원\n- 신청 시간: 제한없음\n- 이용 시간: 제한없음\n- 우천 시: 이용 불가\n- 개인 불멍 용품(화롯대, 연료 등) 지참: 가능\n- 외부 장작 반입: 가능",
-        "displayOrder": 3,
+        "displayOrder": 2,
         "images": [
           {
             "id": "2074d391-a0c5-4c56-9b6e-ccf47d8666c2",
@@ -243,7 +202,7 @@
         "name": "편의 및 주변 시설",
         "description": "머무는 모든 순간이 편안하게 이어질 수 있도록\n세심한 준비로 공간의 완성도를 더했습니다.\n부담 없이 쉬어갈 수 있는 시간을 제공합니다.",
         "usageGuide": "- 와이파이 보유\n- 화재감지기 보유\n- 일산화탄소감지기 보유\n- 넷플릭스 이용 가능\n※ 넷플릭스 개인계정 필요\n- OTT 이용 가능\n※ 디즈니+, 티빙 이용 가능\n※ OTT 개인계정 필요",
-        "displayOrder": 4,
+        "displayOrder": 3,
         "images": [
           {
             "id": "9f88ec26-660b-40f1-ac85-230ac9d134ce",
@@ -1595,17 +1554,9 @@
                     "blockId": null
                   },
                   {
-                    "id": "2902782c-345f-42d5-96aa-600cd3a39c43",
-                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/5cd8500d-e14f-418c-93ae-867f2817daea/index_essence/1787217150428-w7oxg5u7ep.jpg",
-                    "sortOrder": 2,
-                    "description": "자연을 담은 휴식",
-                    "isSelected": true,
-                    "blockId": null
-                  },
-                  {
                     "id": "1fb7ee6d-36fc-4928-85e7-ffd39b3409ca",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/5cd8500d-e14f-418c-93ae-867f2817daea/index_essence/1787217150433-e7jrh1zkt1.jpg",
-                    "sortOrder": 3,
+                    "sortOrder": 2,
                     "description": "따뜻한 밤의 여운",
                     "isSelected": true,
                     "blockId": null
@@ -1613,7 +1564,7 @@
                   {
                     "id": "80118762-d0a5-4da3-a7e2-267f9b9ada79",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/5cd8500d-e14f-418c-93ae-867f2817daea/index_essence/1787217150420-q3qp1fx6bh.jpg",
-                    "sortOrder": 4,
+                    "sortOrder": 3,
                     "description": "경주 청보리스테이 펜션만의 특별함",
                     "isSelected": true,
                     "blockId": null
